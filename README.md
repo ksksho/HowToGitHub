@@ -15,7 +15,7 @@
 # 開発フロー
 ## 作業ブランチ(event/開発者A/機能a)の作成
 ```
-$ git clone -b event/develop https://github.com/tlk-emb/ZytleBot3_ROS2_SW.git
+$ git clone -b event/develop https://github.com/aaa/bbb.git
 $ git branch event/開発者A/develop
 $ git checkout event/開発者A/develop
 $ git branch event/開発者A/機能a
